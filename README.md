@@ -1,4 +1,5 @@
 # farm-to-table
-
+---
 - Jessica Smith
-- Jamile Martin
+- Jamile Martin 
+---
